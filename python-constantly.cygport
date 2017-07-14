@@ -1,0 +1,12 @@
+inherit python-wheel
+
+NAME="python-constantly"
+VERSION=15.1.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python symbolic constants library"
+DESCRIPTION="A library that provides symbolic constant support. It includes
+collections and constants with text, numeric, and bit flag values. Originally
+twisted.python.constants from the Twisted project."
+
+ARCH=noarch
